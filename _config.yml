@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nespolodr.github.io
+title: Diego Nespolo
+email: nespoloapp@gmail.com
+author: Diego Nespolo
+description: Dev blog
+paginate: 5
+google_analytics: 
